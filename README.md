@@ -1,5 +1,9 @@
 # hash-bench-nes
 
+> Part of the **[hash-bench](https://github.com/dmang-dev/hash-bench)**
+> cross-platform suite — the same hash-algorithm sources timed natively
+> on seven Nintendo consoles (NES · GB/GBC · GBA · NDS · DSi · 3DS · N64).
+
 Native **Nintendo Entertainment System / Famicom** hashing-algorithm
 benchmark — **18 algorithms** on a 1.79 MHz 6502 (NTSC) with `clock()`-
 driven timing, displayed in cc65's 32×30 software console. The
